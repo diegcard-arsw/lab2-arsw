@@ -12,14 +12,14 @@ import java.awt.event.WindowEvent;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
-import javax.swing.JPanel;
 import javax.swing.JOptionPane;
+import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 /**
  * Interfaz de usuario y modelo para un Canodromo
  * 
- * @author rlopez
+ * @author Diego Cardenas
  * 
  */
 public class Canodromo extends JFrame {
